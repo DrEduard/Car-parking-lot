@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParking", "CarParking\CarParking.csproj", "{FA4937E5-7BB8-49D8-A2AC-8A1B2040F293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarParking.Tests", "CarParking.Tests\CarParking.Tests.csproj", "{A411442A-CBCE-41A5-8CE9-AFBA2E82F82B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4937E5-7BB8-49D8-A2AC-8A1B2040F293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4937E5-7BB8-49D8-A2AC-8A1B2040F293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4937E5-7BB8-49D8-A2AC-8A1B2040F293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4937E5-7BB8-49D8-A2AC-8A1B2040F293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A411442A-CBCE-41A5-8CE9-AFBA2E82F82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A411442A-CBCE-41A5-8CE9-AFBA2E82F82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A411442A-CBCE-41A5-8CE9-AFBA2E82F82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A411442A-CBCE-41A5-8CE9-AFBA2E82F82B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA74CE2-4AB8-4B3B-A8E1-F4BB213B668A}
+	EndGlobalSection
+EndGlobal
